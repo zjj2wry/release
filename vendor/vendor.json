@@ -1,0 +1,43 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "VCsT03BssI6Tgp/3qGXbdBc/4i8=",
+			"path": "github.com/google/go-github/github",
+			"revision": "de33c46a823d3f723514fc5333b75ef2e937b7df",
+			"revisionTime": "2017-04-12T18:52:36Z"
+		},
+		{
+			"checksumSHA1": "p3IB18uJRs4dL2K5yx24MrLYE9A=",
+			"path": "github.com/google/go-querystring/query",
+			"revision": "53e6ce116135b80d037921a7fdd5138cf32d7a8a",
+			"revisionTime": "2017-01-11T10:11:55Z"
+		},
+		{
+			"checksumSHA1": "0Qi2QAv9T10RCUs9vhbIAAnyEZU=",
+			"path": "github.com/spf13/pflag",
+			"revision": "e453343e6260b4a3a89f1f0e10a2fbb07f8d9750",
+			"revisionTime": "2017-04-12T15:22:49Z"
+		},
+		{
+			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
+			"path": "golang.org/x/net/context",
+			"revision": "d1e1b351919c6738fdeb9893d5c998b161464f0c",
+			"revisionTime": "2016-12-29T22:47:41Z"
+		},
+		{
+			"checksumSHA1": "SjCoL7KD7qBmgSuqGTCAuUhigDk=",
+			"path": "golang.org/x/oauth2",
+			"revision": "a6bd8cefa1811bd24b86f8902872e4e8225f74c4",
+			"revisionTime": "2017-04-12T07:26:39Z"
+		},
+		{
+			"checksumSHA1": "BAkyxbaxkrZbzGtfG5iX8v6ypIo=",
+			"path": "golang.org/x/oauth2/internal",
+			"revision": "a6bd8cefa1811bd24b86f8902872e4e8225f74c4",
+			"revisionTime": "2017-04-12T07:26:39Z"
+		}
+	],
+	"rootPath": "release"
+}
